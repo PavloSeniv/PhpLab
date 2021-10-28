@@ -1,7 +1,7 @@
 <?php
 //Task2
-$fileInHtml = file_get_contents('https://pnu.edu.ua/phone_book_pnu/');
-preg_match_all("<td .* style=\"width: 32.0388%\">.*\\n([А-ЯІЄЮЙ]*).*\\n*([А-ЯІЄЮЙ]*.*) ([А-ЯІЄЮЙ].*)<.*\\n.*<td.*26\\.2136.*>(\\+\\d{2}\\(\\d{4}\\)\\d{2}-\\d{2}-\\d{2})", $fileInHtml, $matches);
+$fileInHtml = file_get_contents('../Files/task3.txt');
+preg_match_all("/(d{1,2}) (лют[а-яі]*|берез[а-яі]*|квіт[а-яі]*|трав[а-яі]*|черв[а-яі]*|лип[а-яі]*|серп[а-яі]*|верес[а-яі]*|жовт[а-яі]*|листопад[а-яі]*|груд[а-яі])/", $fileInHtml, $matches);
 
 $urls = $matches[1];
 
