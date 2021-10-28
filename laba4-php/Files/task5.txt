@@ -1,0 +1,4 @@
+білий пес чорний кіт
+FindCombinationCatDog
+чорний пес жовтий кіт
+FindCombinationCatDog
