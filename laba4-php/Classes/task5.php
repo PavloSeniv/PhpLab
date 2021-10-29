@@ -1,7 +1,7 @@
 <?php
 //Task2
 $fileInHtml = file_get_contents('../Files/task3.txt');
-preg_match_all("((чорний|білий)\\s(пес|кіт))", $fileInHtml, $matches);
+preg_match_all("((чорний|білий)s(пес|кіт))", $fileInHtml, $matches);
 
 $urls = $matches[1];
 
