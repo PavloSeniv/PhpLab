@@ -1,8 +1,13 @@
 <?php
+
+use model\Member;
+
 session_start();
 
-if (isset($_SESSION["username"])) {
-    $username = $_SESSION["username"];
+require_once "Classes/authenticationCookieSessionValidate.php";
+
+if (isset($_SESSION["member_name"])) {
+    $username = $_SESSION["member_name"];
     session_write_close();
 } else {
     // since the username is not set in session, the user is not-logged-in
@@ -10,6 +15,7 @@ if (isset($_SESSION["username"])) {
     // so let's clear all session variables and redirect him to index
     session_unset();
     session_write_close();
+
     $url = "./index.php";
     header("Location: $url");
 }
