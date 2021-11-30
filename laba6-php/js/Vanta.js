@@ -1,15 +1,12 @@
-VANTA.BIRDS({
-    el: "Main",
+VANTA.HALO({
+    el: "#Main",
     mouseControls: true,
     touchControls: true,
     gyroControls: false,
-    scale: 1.00,
-    scaleMobile: 1.00,
-    backgroundColor: 0xeeeff1,
-    color1: 0x0a58ca,
-    color2: 0x00d5e4,
-    colorMode: "lerpGradient",
-    birdSize: 1.40,
-    wingSpan: 20.00,
-    quantity: 4.00
+    minHeight: 200.00,
+    minWidth: 200.00,
+    baseColor: 0x6a11cb,
+    backgroundColor: 0x000000,
+    amplitudeFactor: 1.50,
+    size: 1.10
 })

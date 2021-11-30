@@ -32,6 +32,7 @@ aside {
 html,
 body {
     width: 100%;
+    height: 100%;
     font-size: 100%;
     line-height: 1;
     font-size: 14px;
@@ -91,21 +92,18 @@ h6 {
 * {
     font-family: "Titillium Web", sans-serif;
     font-size: 14px;
-    color: #000;
+    color: #fff;
 }
 
 body {
-    background: #c31432; /* fallback for old browsers */
-    background: -webkit-linear-gradient(
-            to left,
-            #240b36,
-            #c31432
-    ); /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(
-            to left,
-            #240b36,
-            #c31432
-    ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    /* fallback for old browsers */
+    background: #6a11cb;
+
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
 }
 
 .container {
@@ -115,44 +113,6 @@ body {
     align-items: center;
 }
 
-/*.container-task {*/
-/*  display: flex;*/
-/*  justify-content: center;*/
-/*  align-items: center;*/
-/*  font-size: 20px;*/
-/*}*/
-
-/*.container-task-1 {*/
-/*  height: 100vh;*/
-/*  display: flex;*/
-/*  justify-content: center;*/
-/*  align-items: center;*/
-/*  gap: 20px;*/
-/*  font-size: 20px;*/
-/*}*/
-/*.wrapper {*/
-/*  gap: 20px;*/
-/*  display: flex;*/
-/*  width: 50%;*/
-/*  flex-direction: column;*/
-/*  align-items: center;*/
-/*  text-align: center;*/
-/*}*/
-
-/*.index-wrapper__link {*/
-/*  font-size: 20px;*/
-/*  text-transform: uppercase;*/
-/*}*/
-
-/*table {*/
-/*  text-align: center;*/
-/*  border-collapse: collapse;*/
-/*}*/
-/*tr,*/
-/*td {*/
-/*  border: 1px solid white;*/
-/*  font-size: 20px;*/
-/*}*/
 
 /* version 3.0 table added */
 .phppot-container {
@@ -160,10 +120,9 @@ body {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-size: .9em;
     color: #1e2a28;
-    width: 740px;
+    width: 1199px;
     margin: 0 auto;
-    padding: 0px 20px 20px 20px;
-
+    padding: 0 20px 0px 20px;
 }
 
 .phppot-container table {
@@ -185,11 +144,12 @@ input[type=text].phppot-input, .phppot-container input,
 .phppot-container textarea, .phppot-container select, .phppot-input,
 .phppot-select {
     box-sizing: border-box;
-    width: 200px;
+    width: 100%;
     height: initial;
     padding: 8px 5px;
-    border: 1px solid #9a9a9a;
+    border: 1px solid #fff;
     border-radius: 3px;
+    background-color: black;
 }
 
 .phppot-container input[type="checkbox"] {
@@ -208,23 +168,33 @@ input[type=text].phppot-input, .phppot-container input,
 .phppot-container select, .phppot-select {
     display: initial;
     height: 30px;
-    background-color: #fff;
+    background-color: #000000;
     padding: 2px 5px;
 }
 
 .phppot-container button, .phppot-container input[type=submit] {
+    width: 35%;
     padding: 8px 0px;
     font-size: 1em;
     cursor: pointer;
     border-radius: 3px;
-    color: #000000;
+    color: #fff;
     font-weight: bold;
-    background-color: #035f09;
-    border-color: #8eff97 #67ff3d #0fde00;
+    background-color: #000000;
+    border-color: #ffffff;
+    text-transform: uppercase;
+}
+
+.checkbox-block {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    column-gap: 5px;
+
 }
 
 .phppot-container button, .phppot-container input[type=submit]:hover {
-    background-color: #035f09;
+    background-color: #6a11cb;
 }
 
 .phppot-container button:focus {
@@ -249,8 +219,8 @@ input[type=text].phppot-input, .phppot-container input,
 .phppot-container .error {
     padding: 6px 20px;
     border-radius: 3px;
-    background-color: #fb817c;
-    border: 1px solid #e46b66;
+    background-color: #6a11cb;
+    border: 1px solid #6206c5;
 }
 
 .phppot-container .success {
@@ -258,29 +228,8 @@ input[type=text].phppot-input, .phppot-container input,
     border: #40cc94 1px solid;
 }
 
-#phppot-loader-icon {
-    color: #1871e6;
-    font-weight: bold;
-    padding: 6px 20px 6px 0;
-    display: none;
-    vertical-align: middle;
-}
-
-#phppot-loader-ack-icon {
-    color: #1871e6;
-    font-weight: bold;
-    padding: 6px 20px 6px 0;
-    display: none;
-    vertical-align: middle;
-}
-
-#phppot-btn-send:hover {
-    background: #1363cc;
-    border: #105bbd 1px solid;
-}
-
 .phppot-container .validation-message {
-    color: #e20900;
+    color: #6a11cb;
     display: inline-block;
 }
 
@@ -306,6 +255,7 @@ input[type=text].phppot-input, .phppot-container input,
 
 .inline-block {
     display: inline-block;
+    width: 80%;
 }
 
 @media all and (max-width: 780px) {
@@ -331,4 +281,143 @@ input[type=text].phppot-input, .phppot-container input,
         border: none;
         padding: 0;
     }
+}
+
+
+/*user regi*/
+.sign-up-container {
+    background: #000000;
+    border-radius: 1rem;
+    padding: 10px 10px 10px 10px;
+    width: 450px;
+    margin: 50px auto;
+}
+
+.page-header {
+    float: right;
+    margin-bottom: 50px;
+}
+
+.login-signup {
+    margin-top: 100px;
+    text-decoration: none;
+}
+
+.login-signup-home {
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+.login-signup a {
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.server-response {
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.login-signup-home a {
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.signup-heading {
+    font-size: 2em;
+    font-weight: bold;
+    margin-top: 50px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.username-admin {
+    color: #5e00c7;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+}
+
+.username-member {
+    color: #0462e0;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+}
+
+.signup-subheading {
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 25px;
+    text-align: center;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.row {
+    margin: 15px 0px;
+    text-align: center;
+}
+
+.form-label {
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+.sign-up-container .error {
+    color: #6a11cb;
+    padding: 0px;
+    background: none;
+    border: #6a11cb;
+}
+
+.sign-up-container .error-field {
+    border: 1px solid #5e00c7;
+}
+
+.sign-up-container .error:before {
+    content: '*';
+    padding: 0 3px;
+    color: #6a11cb;
+}
+
+.error-message {
+    font-size: 15px;
+    padding-top: 15px;
+    color: #6a11cb;
+    text-align: center;
+}
+
+.success-msg {
+    padding-top: 10px;
+    color: #176701;
+    text-align: center;
+}
+
+input.btn {
+    width: 250px
+}
+
+.signup-align {
+    margin: 0 auto;
+}
+
+.home {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.page-content {
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+
 }

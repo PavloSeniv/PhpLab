@@ -17,12 +17,6 @@ require_once "Classes/authenticationCookieSessionValidate.php";
 if ($isLoggedIn) {
     $util->redirect("home.php");
 }
-//
-//if (!empty($_POST["login-btn"])) {
-//    require_once __DIR__ . '/Model/Member.php';
-//    $member = new Member();
-//    $loginResult = $member->loginMember();
-//}
 
 if (!empty($_POST["login"])) {
 
@@ -67,11 +61,13 @@ if (!empty($_POST["login"])) {
             $util->clearAuthCookie();
         }
 
+        session_write_close();
         $util->redirect("home.php");
     } else {
-        $message = "Invalid Login";
+        $message = "Invalid username or password";
     }
 }
+
 ?>
 <!doctype html>
 <html lang="uk">
@@ -82,35 +78,32 @@ if (!empty($_POST["login"])) {
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="author" content="Seniv Pavlo, https://github.com/PavloSeniv">
     <meta name="copyright" content="Seniv Pavlo">
-    <link rel="stylesheet" href="style/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;700&display=swap"
           rel="stylesheet">
     <title>Login</title>
     <!-- ======== Style ======== -->
-    <link href="style/user-registration.css" type="text/css"
-          rel="stylesheet"/>
+    <link rel="stylesheet" href="style/style.css">
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 </head>
 <body class="container">
 <div class="phppot-container">
     <div class="sign-up-container">
-        <div class="login-signup">
-            <a href="user-registration.php">Sign up</a>
-        </div>
+
         <div class="signup-align">
             <form name="login" action="" id="frmLogin" method="post"
                   onsubmit="return loginValidation()">
+
                 <div class="signup-heading">Login</div>
+
+                <div class="signup-subheading"> Please enter your login and password!</div>
 
                 <div class="error-message"><?php if (isset($message)) {
                         echo $message;
                     } ?></div>
 
-                <?php if (!empty($loginResult)) { ?>
-                    <div class="error-msg"><?php echo $loginResult; ?></div>
-                <?php } ?>
                 <div class="row">
                     <div class="inline-block">
                         <div class="form-label">
@@ -138,7 +131,7 @@ if (!empty($_POST["login"])) {
                 </div>
 
                 <div class="row">
-                    <div>
+                    <div class="checkbox-block">
                         <input type="checkbox" name="remember" id="remember"
                             <?php if (isset($_COOKIE["member_login"])) { ?> checked
                             <?php } ?>
@@ -147,9 +140,16 @@ if (!empty($_POST["login"])) {
                     </div>
                 </div>
                 <div class="row">
-
                     <input type="submit" name="login" value="Login" id="login-btn"
                            class="form-submit-button">
+                </div>
+                <div class="row">
+                    <div class="login-signup">
+                        <p>
+                            Don't have an account?
+                            <a href="user-registration.php">Sign Up</a>
+                        </p>
+                    </div>
                 </div>
             </form>
 
@@ -169,12 +169,12 @@ if (!empty($_POST["login"])) {
         $("#username-info").html("").hide();
 
         if (UserName.trim() == "") {
-            $("#username-info").html("required.").css("color", "#ee0000").show();
+            $("#username-info").html("required.").css("color", "#6a11cb").show();
             $("#username").addClass("error-field");
             valid = false;
         }
         if (Password.trim() == "") {
-            $("#login-password-info").html("required.").css("color", "#ee0000").show();
+            $("#login-password-info").html("required.").css("color", "#6a11cb").show();
             $("#login-password").addClass("error-field");
             valid = false;
         }

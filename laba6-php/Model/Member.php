@@ -108,49 +108,4 @@ class Member
         return $response;
     }
 
-//    public function getMember($username)
-//    {
-//        $query = 'SELECT * FROM lab6member where member_name = ?';
-//        $paramType = 's';
-//        $paramValue = array(
-//            $username
-//        );
-//        $memberRecord = $this->ds->select($query, $paramType, $paramValue);
-//        return $memberRecord;
-//    }
-//
-//    /**
-//     * to login a user
-//     *
-//     * @return string
-//     */
-//    public function loginMember()
-//    {
-//        $memberRecord = $this->getMember($_POST["username"]);
-//        $loginPassword = 0;
-//        if (!empty($memberRecord)) {
-//            if (!empty($_POST["login-password"])) {
-//                $password = $_POST["login-password"];
-//            }
-//            $hashedPassword = $memberRecord[0]["password"];
-//            $loginPassword = 0;
-//            if (password_verify($password, $hashedPassword)) {
-//                $loginPassword = 1;
-//            }
-//        } else {
-//            $loginPassword = 0;
-//        }
-//        if ($loginPassword == 1) {
-//            // login sucess so store the member's username in
-//            // the session
-//            session_start();
-//            $_SESSION["username"] = $memberRecord[0]["username"];
-//            session_write_close();
-//            $url = "./home.php";
-//            header("Location: $url");
-//        } else if ($loginPassword == 0) {
-//            $loginStatus = "Invalid username or password.";
-//            return $loginStatus;
-//        }
-//    }
 }

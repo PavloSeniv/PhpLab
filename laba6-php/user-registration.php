@@ -17,23 +17,18 @@ if (!empty($_POST["signup-btn"])) {
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="author" content="Seniv Pavlo, https://github.com/PavloSeniv">
     <meta name="copyright" content="Seniv Pavlo">
-    <link rel="stylesheet" href="style/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;700&display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;600;700&display=swap"
           rel="stylesheet">
     <title>Registration</title>
     <!-- ======== Style ======== -->
-    <link href="style/user-registration.css" type="text/css"
-          rel="stylesheet"/>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="style/style.css">
+
 </head>
 <body class="container">
 <div class="phppot-container">
     <div class="sign-up-container">
-        <div class="login-signup">
-            <a href="index.php">Login</a>
-        </div>
         <div class="">
             <form name="sign-up" action="" method="post"
                   onsubmit="return signupValidation()">
@@ -61,7 +56,7 @@ if (!empty($_POST["signup-btn"])) {
                         <div class="form-label">
                             Username<span class="required error" id="username-info"></span>
                         </div>
-                        <input class="input-box-330" type="text" name="username"
+                        <input type="text" name="username"
                                id="username">
                     </div>
                 </div>
@@ -70,7 +65,7 @@ if (!empty($_POST["signup-btn"])) {
                         <div class="form-label">
                             Email<span class="required error" id="email-info"></span>
                         </div>
-                        <input class="input-box-330" type="email" name="email" id="email">
+                        <input type="email" name="email" id="email">
                     </div>
                 </div>
                 <div class="row">
@@ -78,7 +73,7 @@ if (!empty($_POST["signup-btn"])) {
                         <div class="form-label">
                             Password<span class="required error" id="signup-password-info"></span>
                         </div>
-                        <input class="input-box-330" type="password"
+                        <input type="password"
                                name="signup-password" id="signup-password">
                     </div>
                 </div>
@@ -88,7 +83,7 @@ if (!empty($_POST["signup-btn"])) {
                             Confirm Password<span class="required error"
                                                   id="confirm-password-info"></span>
                         </div>
-                        <input class="input-box-330" type="password"
+                        <input class="" type="password"
                                name="confirm-password" id="confirm-password">
                     </div>
                 </div>
@@ -96,10 +91,21 @@ if (!empty($_POST["signup-btn"])) {
                     <input class="btn" type="submit" name="signup-btn"
                            id="signup-btn" value="Sign up">
                 </div>
+
+                <div class="row">
+                    <div class="login-signup">
+                        <p>
+                            Already registered?
+                            <a href="index.php">Login</a>
+                        </p>
+                    </div>
+                </div>
+
             </form>
         </div>
     </div>
 </div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
 <script>
     function signupValidation() {
@@ -120,31 +126,31 @@ if (!empty($_POST["signup-btn"])) {
         $("#email-info").html("").hide();
 
         if (UserName.trim() == "") {
-            $("#username-info").html("required.").css("color", "#ee0000").show();
+            $("#username-info").html("required.").css("color", "#6a11cb").show();
             $("#username").addClass("error-field");
             valid = false;
         }
         if (email == "") {
-            $("#email-info").html("required").css("color", "#ee0000").show();
+            $("#email-info").html("required").css("color", "#6a11cb").show();
             $("#email").addClass("error-field");
             valid = false;
         } else if (email.trim() == "") {
-            $("#email-info").html("Invalid email address.").css("color", "#ee0000").show();
+            $("#email-info").html("Invalid email address.").css("color", "#6a11cb").show();
             $("#email").addClass("error-field");
             valid = false;
         } else if (!emailRegex.test(email)) {
-            $("#email-info").html("Invalid email address.").css("color", "#ee0000")
+            $("#email-info").html("Invalid email address.").css("color", "#6a11cb")
                 .show();
             $("#email").addClass("error-field");
             valid = false;
         }
         if (Password.trim() == "") {
-            $("#signup-password-info").html("required.").css("color", "#ee0000").show();
+            $("#signup-password-info").html("required.").css("color", "#6a11cb").show();
             $("#signup-password").addClass("error-field");
             valid = false;
         }
         if (ConfirmPassword.trim() == "") {
-            $("#confirm-password-info").html("required.").css("color", "#ee0000").show();
+            $("#confirm-password-info").html("required.").css("color", "#6a11cb").show();
             $("#confirm-password").addClass("error-field");
             valid = false;
         }

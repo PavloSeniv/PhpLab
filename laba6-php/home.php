@@ -30,33 +30,40 @@ if (isset($_SESSION["member_name"])) {
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="author" content="Seniv Pavlo, https://github.com/PavloSeniv">
     <meta name="copyright" content="Seniv Pavlo">
-    <link rel="stylesheet" href="../style/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;700&display=swap"
           rel="stylesheet">
     <title>Home</title>
     <!-- ======== Style ======== -->
-    <link href="/style/user-registration.css" type="text/css"
-          rel="stylesheet"/>
+    <link rel="stylesheet" href="style/style.css">
+
 </head>
 <body>
 <div>
 
-    <main id="Main" class="phppot-container" style="padding: 0">
-
+    <main id="Main" class="phppot-container">
         <div class="home">
             <div class="page-header">
-                <span class="login-signup"><a href="logout.php">Logout</a></span>
+                <p class="login-signup-home"><a href="logout.php">Logout</a></p>
             </div>
-            <div class="page-content">Welcome <?php echo $username; ?></div>
+            <div class="page-content">Welcome
+                <?php if ($username == "admin") {
+                    echo "<span class='username-admin'>";
+                    echo $username;
+                    echo "</span>";
+                } else {
+                    echo "<span class='username-member'>";
+                    echo $username;
+                    echo "</span>";
+                }
+                ?></div>
         </div>
-
     </main>
 </div>
 
 <script src="js/three.min.js"></script>
-<script src="js/vanta.birds.min.js"></script>
+<script src="js/vanta.halo.min.js"></script>
 <script src="js/Vanta.js"></script>
 </body>
 </html>

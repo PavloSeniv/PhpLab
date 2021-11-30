@@ -19,7 +19,8 @@ session_destroy();
 
 // clear cookies
 $util->clearAuthCookie();
-
+session_unset();
+session_write_close();
 $url = "./index.php";
 header("Location: $url");
 
