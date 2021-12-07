@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Coordinates>
+  <geolocation id="1">
+    <longitude>24.116090</longitude>
+    <latitude>48.499177</latitude>
+    <code_of_coor>ABCDCBCDBBABBDACCC</code_of_coor>
+  </geolocation>
+  <geolocation id="2">
+    <longitude>24.116071</longitude>
+    <latitude>48.499071</latitude>
+    <code_of_coor>ABCDCBCDBBABBDDBBB</code_of_coor>
+  </geolocation>
+  <geolocation id="3">
+    <longitude>24.115713</longitude>
+    <latitude>48.499156</latitude>
+    <code_of_coor>ABCDCBCDBBABBDACCC</code_of_coor>
+  </geolocation>
+  <geolocation id="4">
+    <longitude>24.115597</longitude>
+    <latitude>48.499122</latitude>
+    <code_of_coor>ABCDCBCDBBABBDDBBB</code_of_coor>
+  </geolocation>
+  <geolocation id="5">
+    <longitude>24.114894</longitude>
+    <latitude>48.498635</latitude>
+    <code_of_coor>ABCDCBCDBBABBDCAAA</code_of_coor>
+  </geolocation>
+  <geolocation id="6">
+    <longitude>24.114588</longitude>
+    <latitude>48.498333</latitude>
+    <code_of_coor>ABCDCBCDBBABBDCAAD</code_of_coor>
+  </geolocation>
+  <geolocation id="7">
+    <longitude>24.114598</longitude>
+    <latitude>48.497699</latitude>
+    <code_of_coor>ABCDCBCDBBABBDCADA</code_of_coor>
+  </geolocation>
+  <geolocation id="8">
+    <longitude>24.115083</longitude>
+    <latitude>48.497213</latitude>
+    <code_of_coor>ABCDCBCDBBABBDDBCB</code_of_coor>
+  </geolocation>
+  <geolocation id="9">
+    <longitude>24.115272</longitude>
+    <latitude>48.497068</latitude>
+    <code_of_coor>ABCDCBCDBBABBDDBCC</code_of_coor>
+  </geolocation>
+  <geolocation id="10">
+    <longitude>24.116097</longitude>
+    <latitude>48.496291</latitude>
+    <code_of_coor>ABCDCBCDBBABBDDCBB</code_of_coor>
+  </geolocation>
+  <geolocation id="11">
+    <longitude>24.116472</longitude>
+    <latitude>48.495820</latitude>
+    <code_of_coor>ABCDCBCDBBABBDDCBA</code_of_coor>
+  </geolocation>
+  <geolocation id="12">
+    <longitude>24.116724</longitude>
+    <latitude>48.495662</latitude>
+    <code_of_coor>ABCDCBCDBBABBDDCBD</code_of_coor>
+  </geolocation>
+  <geolocation id="13">
+    <longitude>24.117797</longitude>
+    <latitude>48.494950</latitude>
+    <code_of_coor>ABCDCBCDBBABBDDCDB</code_of_coor>
+  </geolocation>
+  <geolocation id="14">
+    <longitude>24.119018</longitude>
+    <latitude>48.494336</latitude>
+    <code_of_coor>ABCDCBCDBBABBDDCDC</code_of_coor>
+  </geolocation>
+  <geolocation id="15">
+    <longitude>24.119014</longitude>
+    <latitude>48.494343</latitude>
+    <code_of_coor>ABCDCBCDBBABBDDCDB</code_of_coor>
+  </geolocation>
+  <geolocation id="16">
+    <longitude>24.119163</longitude>
+    <latitude>48.494254</latitude>
+    <code_of_coor>ABCDCBCDBBABBDDCDD</code_of_coor>
+  </geolocation>
+  <geolocation id="17">
+    <longitude>24.120482</longitude>
+    <latitude>48.493636</latitude>
+    <code_of_coor>ABCDCBCDBBABCAABAA</code_of_coor>
+  </geolocation>
+  <geolocation id="18">
+    <longitude>24.120645</longitude>
+    <latitude>48.493538</latitude>
+    <code_of_coor>ABCDCBCDBBABCAAABB</code_of_coor>
+  </geolocation>
+  <geolocation id="19">
+    <longitude>24.122003</longitude>
+    <latitude>48.493133</latitude>
+    <code_of_coor>ABCDCBCDBBABCAAABA</code_of_coor>
+  </geolocation>
+  <geolocation id="20">
+    <longitude>24.122723</longitude>
+    <latitude>48.492933</latitude>
+    <code_of_coor>ABCDCBCDBBABCAAABD</code_of_coor>
+  </geolocation>
+  <geolocation id="21">
+    <longitude>24.123245</longitude>
+    <latitude>48.492633</latitude>
+    <code_of_coor>ABCDCBCDBBABCAAAAC</code_of_coor>
+  </geolocation>
+  <geolocation id="22">
+    <longitude>24.124207</longitude>
+    <latitude>48.492277</latitude>
+    <code_of_coor>ABCDCBCDBBABCAAADB</code_of_coor>
+  </geolocation>
+  <geolocation id="23">
+    <longitude>24.124728</longitude>
+    <latitude>48.492109</latitude>
+    <code_of_coor>ABCDCBCDBBABCAAADA</code_of_coor>
+  </geolocation>
+  <geolocation id="24">
+    <longitude>24.125841</longitude>
+    <latitude>48.491539</latitude>
+    <code_of_coor>ABCDCBCDBBABCAAADD</code_of_coor>
+  </geolocation>
+  <geolocation id="25">
+    <longitude>24.126071</longitude>
+    <latitude>48.491256</latitude>
+    <code_of_coor>ABCDCBCDBBABDBBBCC</code_of_coor>
+  </geolocation>
+  <geolocation id="26">
+    <longitude>24.126489</longitude>
+    <latitude>48.490833</latitude>
+    <code_of_coor>ABCDCBCDBBABDBBCBB</code_of_coor>
+  </geolocation>
+  <geolocation id="27">
+    <longitude>24.127199</longitude>
+    <latitude>48.490189</latitude>
+    <code_of_coor>ABCDCBCDBBABDBBCBC</code_of_coor>
+  </geolocation>
+  <geolocation id="28">
+    <longitude>24.127408</longitude>
+    <latitude>48.489911</latitude>
+    <code_of_coor>ABCDCBCDBBABDBBCBD</code_of_coor>
+  </geolocation>
+  <geolocation id="29">
+    <longitude>24.127581</longitude>
+    <latitude>48.489511</latitude>
+    <code_of_coor>ABCDCBCDBBABDBBCCA</code_of_coor>
+  </geolocation>
+  <geolocation id="30">
+    <longitude>24.128307</longitude>
+    <latitude>48.488813</latitude>
+    <code_of_coor>ABCDCBCDBBABDBBCCD</code_of_coor>
+  </geolocation>
+  <geolocation id="31">
+    <longitude>24.128752</longitude>
+    <latitude>48.488515</latitude>
+    <code_of_coor>ABCDCBCDBBABDBBCDC</code_of_coor>
+  </geolocation>
+  <geolocation id="32">
+    <longitude>24.129452</longitude>
+    <latitude>48.488089</latitude>
+    <code_of_coor>ABCDCBCDBBABDBCBAB</code_of_coor>
+  </geolocation>
+  <geolocation id="33">
+    <longitude>24.130246</longitude>
+    <latitude>48.487769</latitude>
+    <code_of_coor>ABCDCBCDBBABDBCBAA</code_of_coor>
+  </geolocation>
+  <geolocation id="34">
+    <longitude>24.130904</longitude>
+    <latitude>48.487440</latitude>
+    <code_of_coor>ABCDCBCDBBABDBCBAD</code_of_coor>
+  </geolocation>
+  <geolocation id="35">
+    <longitude>24.131489</longitude>
+    <latitude>48.487042</latitude>
+    <code_of_coor>ABCDCBCDBBABDBCABC</code_of_coor>
+  </geolocation>
+  <geolocation id="36">
+    <longitude>24.131941</longitude>
+    <latitude>48.486725</latitude>
+    <code_of_coor>ABCDCBCDBBABDBCACB</code_of_coor>
+  </geolocation>
+  <geolocation id="37">
+    <longitude>24.132858</longitude>
+    <latitude>48.486187</latitude>
+    <code_of_coor>ABCDCBCDBBABDBCACA</code_of_coor>
+  </geolocation>
+  <geolocation id="38">
+    <longitude>24.133130</longitude>
+    <latitude>48.486023</latitude>
+    <code_of_coor>ABCDCBCDBBABDBCACD</code_of_coor>
+  </geolocation>
+  <geolocation id="39">
+    <longitude>24.134255</longitude>
+    <latitude>48.485466</latitude>
+    <code_of_coor>ABCDCBCDBBABDBCADC</code_of_coor>
+  </geolocation>
+  <geolocation id="40">
+    <longitude>24.134407</longitude>
+    <latitude>48.485400</latitude>
+    <code_of_coor>ABCDCBCDBBABDBCDAB</code_of_coor>
+  </geolocation>
+  <geolocation id="41">
+    <longitude>24.135654</longitude>
+    <latitude>48.484646</latitude>
+    <code_of_coor>ABCDCBCDBBABDBCDAD</code_of_coor>
+  </geolocation>
+  <geolocation id="42">
+    <longitude>24.136182</longitude>
+    <latitude>48.484023</latitude>
+    <code_of_coor>ABCDCBCDBBABDBCDDA</code_of_coor>
+  </geolocation>
+  <geolocation id="43">
+    <longitude>24.137003</longitude>
+    <latitude>48.483289</latitude>
+    <code_of_coor>ABCDCBCDBBABDBDCCC</code_of_coor>
+  </geolocation>
+  <geolocation id="44">
+    <longitude>24.137735</longitude>
+    <latitude>48.482664</latitude>
+    <code_of_coor>ABCDCBCDBBABDCABBB</code_of_coor>
+  </geolocation>
+  <geolocation id="45">
+    <longitude>24.138347</longitude>
+    <latitude>48.482245</latitude>
+    <code_of_coor>ABCDCBCDBBABDCABBA</code_of_coor>
+  </geolocation>
+  <geolocation id="46">
+    <longitude>24.138848</longitude>
+    <latitude>48.481941</latitude>
+    <code_of_coor>ABCDCBCDBBABDCABBD</code_of_coor>
+  </geolocation>
+  <geolocation id="47">
+    <longitude>24.139824</longitude>
+    <latitude>48.481317</latitude>
+    <code_of_coor>ABCDCBCDBBABDCABAC</code_of_coor>
+  </geolocation>
+  <geolocation id="48">
+    <longitude>24.139906</longitude>
+    <latitude>48.481208</latitude>
+    <code_of_coor>ABCDCBCDBBABDCABDB</code_of_coor>
+  </geolocation>
+  <geolocation id="49">
+    <longitude>24.140889</longitude>
+    <latitude>48.480576</latitude>
+    <code_of_coor>ABCDCBCDBBABDCABDC</code_of_coor>
+  </geolocation>
+  <geolocation id="50">
+    <longitude>24.141106</longitude>
+    <latitude>48.480435</latitude>
+    <code_of_coor>ABCDCBCDBBABDCABDD</code_of_coor>
+  </geolocation>
+  <geolocation id="51">
+    <longitude>24.141955</longitude>
+    <latitude>48.479861</latitude>
+    <code_of_coor>ABCDCBCDBBABDCACAA</code_of_coor>
+  </geolocation>
+  <geolocation id="52">
+    <longitude>24.142596</longitude>
+    <latitude>48.479547</latitude>
+    <code_of_coor>ABCDCBCDBBABDCADBB</code_of_coor>
+  </geolocation>
+  <geolocation id="53">
+    <longitude>24.143167</longitude>
+    <latitude>48.479155</latitude>
+    <code_of_coor>ABCDCBCDBBABDCADBC</code_of_coor>
+  </geolocation>
+  <geolocation id="54">
+    <longitude>24.143882</longitude>
+    <latitude>48.478682</latitude>
+    <code_of_coor>ABCDCBCDBBABDCADBD</code_of_coor>
+  </geolocation>
+  <geolocation id="55">
+    <longitude>24.144244</longitude>
+    <latitude>48.478506</latitude>
+    <code_of_coor>ABCDCBCDBBABDCADCA</code_of_coor>
+  </geolocation>
+  <geolocation id="56">
+    <longitude>24.145330</longitude>
+    <latitude>48.477872</latitude>
+    <code_of_coor>ABCDCBCDBBABDCADDB</code_of_coor>
+  </geolocation>
+  <geolocation id="57">
+    <longitude>24.145407</longitude>
+    <latitude>48.477834</latitude>
+    <code_of_coor>ABCDCBCDBBABDCADDC</code_of_coor>
+  </geolocation>
+  <geolocation id="58">
+    <longitude>24.146604</longitude>
+    <latitude>48.477145</latitude>
+    <code_of_coor>ABCDCBCDBBABDCDAAA</code_of_coor>
+  </geolocation>
+  <geolocation id="59">
+    <longitude>24.147899</longitude>
+    <latitude>48.476422</latitude>
+    <code_of_coor>ABCDCBCDBBABDCDAAD</code_of_coor>
+  </geolocation>
+  <geolocation id="60">
+    <longitude>24.148010</longitude>
+    <latitude>48.476352</latitude>
+    <code_of_coor>ABCDCBCDBBABDDCBBC</code_of_coor>
+  </geolocation>
+  <geolocation id="61">
+    <longitude>24.149344</longitude>
+    <latitude>48.475849</latitude>
+    <code_of_coor>ABCDCBCDBBABDDCBBD</code_of_coor>
+  </geolocation>
+  <geolocation id="62">
+    <longitude>24.149532</longitude>
+    <latitude>48.475701</latitude>
+    <code_of_coor>ABCDCBCDBBABDDCBCA</code_of_coor>
+  </geolocation>
+  <geolocation id="63">
+    <longitude>24.150728</longitude>
+    <latitude>48.475143</latitude>
+    <code_of_coor>ABCDCBCDBBABDDCBDB</code_of_coor>
+  </geolocation>
+  <geolocation id="64">
+    <longitude>24.150775</longitude>
+    <latitude>48.475104</latitude>
+    <code_of_coor>ABCDCBCDBBABDDCBDC</code_of_coor>
+  </geolocation>
+  <geolocation id="65">
+    <longitude>24.152402</longitude>
+    <latitude>48.474342</latitude>
+    <code_of_coor>ABCDCBCDBBABDDCCAA</code_of_coor>
+  </geolocation>
+  <geolocation id="66">
+    <longitude>24.153445</longitude>
+    <latitude>48.473789</latitude>
+    <code_of_coor>ABCDCBCDBBABDDCDBB</code_of_coor>
+  </geolocation>
+  <geolocation id="67">
+    <longitude>24.153591</longitude>
+    <latitude>48.473720</latitude>
+    <code_of_coor>ABCDCBCDBBABDDCDBC</code_of_coor>
+  </geolocation>
+  <geolocation id="68">
+    <longitude>24.154840</longitude>
+    <latitude>48.473190</latitude>
+    <code_of_coor>ABCDCBCDBBABDDCDBD</code_of_coor>
+  </geolocation>
+  <geolocation id="69">
+    <longitude>24.155204</longitude>
+    <latitude>48.473036</latitude>
+    <code_of_coor>ABCDCBCDBBABDDCDCA</code_of_coor>
+  </geolocation>
+  <geolocation id="70">
+    <longitude>24.156202</longitude>
+    <latitude>48.472655</latitude>
+    <code_of_coor>ABCDCBCDBBABDDCDDB</code_of_coor>
+  </geolocation>
+  <geolocation id="71">
+    <longitude>24.157233</longitude>
+    <latitude>48.472287</latitude>
+    <code_of_coor>ABCDCBCDBBABDDCDDC</code_of_coor>
+  </geolocation>
+  <geolocation id="72">
+    <longitude>24.157625</longitude>
+    <latitude>48.472152</latitude>
+    <code_of_coor>ABCDCBCDBBABDDCDDD</code_of_coor>
+  </geolocation>
+  <geolocation id="73">
+    <longitude>24.158816</longitude>
+    <latitude>48.471613</latitude>
+    <code_of_coor>ABCDCBCDBBACAABAAA</code_of_coor>
+  </geolocation>
+  <geolocation id="74">
+    <longitude>24.159002</longitude>
+    <latitude>48.471545</latitude>
+    <code_of_coor>ABCDCBCDBBACAAABBB</code_of_coor>
+  </geolocation>
+  <geolocation id="75">
+    <longitude>24.160308</longitude>
+    <latitude>48.470985</latitude>
+    <code_of_coor>ABCDCBCDBBACAAABBC</code_of_coor>
+  </geolocation>
+  <geolocation id="76">
+    <longitude>24.160481</longitude>
+    <latitude>48.470822</latitude>
+    <code_of_coor>ABCDCBCDBBACAAABBD</code_of_coor>
+  </geolocation>
+  <geolocation id="77">
+    <longitude>24.161750</longitude>
+    <latitude>48.470191</latitude>
+    <code_of_coor>ABCDCBCDBBACAAABDB</code_of_coor>
+  </geolocation>
+  <geolocation id="78">
+    <longitude>24.162978</longitude>
+    <latitude>48.469577</latitude>
+    <code_of_coor>ABCDCBCDBBACAAABDC</code_of_coor>
+  </geolocation>
+  <geolocation id="79">
+    <longitude>24.163252</longitude>
+    <latitude>48.469466</latitude>
+    <code_of_coor>ABCDCBCDBBACAAABDD</code_of_coor>
+  </geolocation>
+  <geolocation id="80">
+    <longitude>24.164216</longitude>
+    <latitude>48.468891</latitude>
+    <code_of_coor>ABCDCBCDBBACAAACAA</code_of_coor>
+  </geolocation>
+  <geolocation id="81">
+    <longitude>24.164431</longitude>
+    <latitude>48.468776</latitude>
+    <code_of_coor>ABCDCBCDBBACAAADBB</code_of_coor>
+  </geolocation>
+  <geolocation id="82">
+    <longitude>24.165391</longitude>
+    <latitude>48.468139</latitude>
+    <code_of_coor>ABCDCBCDBBACAAADBC</code_of_coor>
+  </geolocation>
+  <geolocation id="83">
+    <longitude>24.165924</longitude>
+    <latitude>48.467943</latitude>
+    <code_of_coor>ABCDCBCDBBACAAADBD</code_of_coor>
+  </geolocation>
+  <geolocation id="84">
+    <longitude>24.167315</longitude>
+    <latitude>48.467538</latitude>
+    <code_of_coor>ABCDCBCDBBACAAADDB</code_of_coor>
+  </geolocation>
+  <geolocation id="85">
+    <longitude>24.168574</longitude>
+    <latitude>48.467176</latitude>
+    <code_of_coor>ABCDCBCDBBACAAADDA</code_of_coor>
+  </geolocation>
+  <geolocation id="86">
+    <longitude>24.169247</longitude>
+    <latitude>48.466805</latitude>
+    <code_of_coor>ABCDCBCDBBACAAADDD</code_of_coor>
+  </geolocation>
+  <geolocation id="87">
+    <longitude>24.170177</longitude>
+    <latitude>48.466586</latitude>
+    <code_of_coor>ABCDCBCDBBADBBBCCC</code_of_coor>
+  </geolocation>
+  <geolocation id="88">
+    <longitude>24.170819</longitude>
+    <latitude>48.466107</latitude>
+    <code_of_coor>ABCDCBCDBBADBBCBBB</code_of_coor>
+  </geolocation>
+  <geolocation id="89">
+    <longitude>24.171311</longitude>
+    <latitude>48.466011</latitude>
+    <code_of_coor>ABCDCBCDBBADBBCBBA</code_of_coor>
+  </geolocation>
+  <geolocation id="90">
+    <longitude>24.172078</longitude>
+    <latitude>48.466201</latitude>
+    <code_of_coor>ABCDCBCDBBADBBBCCD</code_of_coor>
+  </geolocation>
+  <geolocation id="91">
+    <longitude>24.172218</longitude>
+    <latitude>48.466163</latitude>
+    <code_of_coor>ABCDCBCDBBADBBCBBA</code_of_coor>
+  </geolocation>
+  <geolocation id="92">
+    <longitude>24.172786</longitude>
+    <latitude>48.466048</latitude>
+    <code_of_coor>ABCDCBCDBBADBBCBAB</code_of_coor>
+  </geolocation>
+  <geolocation id="93">
+    <longitude>24.174093</longitude>
+    <latitude>48.465990</latitude>
+    <code_of_coor>ABCDCBCDBBADBBCBAA</code_of_coor>
+  </geolocation>
+  <geolocation id="94">
+    <longitude>24.175569</longitude>
+    <latitude>48.466150</latitude>
+    <code_of_coor>ABCDCBCDBBADBBCABB</code_of_coor>
+  </geolocation>
+  <geolocation id="95">
+    <longitude>24.176884</longitude>
+    <latitude>48.465975</latitude>
+    <code_of_coor>ABCDCBCDBBADBBCABA</code_of_coor>
+  </geolocation>
+  <geolocation id="96">
+    <longitude>24.178253</longitude>
+    <latitude>48.465505</latitude>
+    <code_of_coor>ABCDCBCDBBADBBCAAB</code_of_coor>
+  </geolocation>
+  <geolocation id="97">
+    <longitude>24.178291</longitude>
+    <latitude>48.465486</latitude>
+    <code_of_coor>ABCDCBCDBBADBBCAAC</code_of_coor>
+  </geolocation>
+  <geolocation id="98">
+    <longitude>24.179668</longitude>
+    <latitude>48.465163</latitude>
+    <code_of_coor>ABCDCBCDBBADBBCAAD</code_of_coor>
+  </geolocation>
+  <geolocation id="99">
+    <longitude>24.180950</longitude>
+    <latitude>48.464807</latitude>
+    <code_of_coor>ABCDCBCDBBADBBDBCB</code_of_coor>
+  </geolocation>
+  <geolocation id="100">
+    <longitude>24.182425</longitude>
+    <latitude>48.464224</latitude>
+    <code_of_coor>ABCDCBCDBBADBBDBCA</code_of_coor>
+  </geolocation>
+  <geolocation id="101">
+    <longitude>24.182870</longitude>
+    <latitude>48.464118</latitude>
+    <code_of_coor>ABCDCBCDBBADBBDBCD</code_of_coor>
+  </geolocation>
+  <geolocation id="102">
+    <longitude>24.183708</longitude>
+    <latitude>48.463823</latitude>
+    <code_of_coor>ABCDCBCDBBADBBDBDC</code_of_coor>
+  </geolocation>
+  <geolocation id="103">
+    <longitude>24.184602</longitude>
+    <latitude>48.463395</latitude>
+    <code_of_coor>ABCDCBCDBBADBBDCAB</code_of_coor>
+  </geolocation>
+  <geolocation id="104">
+    <longitude>24.185122</longitude>
+    <latitude>48.463225</latitude>
+    <code_of_coor>ABCDCBCDBBADBBDCAA</code_of_coor>
+  </geolocation>
+  <geolocation id="105">
+    <longitude>24.185899</longitude>
+    <latitude>48.462753</latitude>
+    <code_of_coor>ABCDCBCDBBADBBDCAD</code_of_coor>
+  </geolocation>
+  <geolocation id="106">
+    <longitude>24.186449</longitude>
+    <latitude>48.462225</latitude>
+    <code_of_coor>ABCDCBCDBBADBBDDBC</code_of_coor>
+  </geolocation>
+  <geolocation id="107">
+    <longitude>24.186625</longitude>
+    <latitude>48.461969</latitude>
+    <code_of_coor>ABCDCBCDBBADBBDDCB</code_of_coor>
+  </geolocation>
+  <geolocation id="108">
+    <longitude>24.187886</longitude>
+    <latitude>48.461945</latitude>
+    <code_of_coor>ABCDCBCDBBADBBDDCA</code_of_coor>
+  </geolocation>
+  <geolocation id="109">
+    <longitude>24.188099</longitude>
+    <latitude>48.462132</latitude>
+    <code_of_coor>ABCDCBCDBBADBBDDBD</code_of_coor>
+  </geolocation>
+  <geolocation id="110">
+    <longitude>24.189176</longitude>
+    <latitude>48.462230</latitude>
+    <code_of_coor>ABCDCBCDBBADBBDDAC</code_of_coor>
+  </geolocation>
+  <geolocation id="111">
+    <longitude>24.190158</longitude>
+    <latitude>48.462064</latitude>
+    <code_of_coor>ABCDCBCDBBADBBDDDB</code_of_coor>
+  </geolocation>
+  <geolocation id="112">
+    <longitude>24.190538</longitude>
+    <latitude>48.461948</latitude>
+    <code_of_coor>ABCDCBCDBBADBBDDDA</code_of_coor>
+  </geolocation>
+  <geolocation id="113">
+    <longitude>24.191958</longitude>
+    <latitude>48.461917</latitude>
+    <code_of_coor>ABCDCBCDBBADBACCCB</code_of_coor>
+  </geolocation>
+  <geolocation id="114">
+    <longitude>24.193331</longitude>
+    <latitude>48.461616</latitude>
+    <code_of_coor>ABCDCBCDBBADBACCCA</code_of_coor>
+  </geolocation>
+  <geolocation id="115">
+    <longitude>24.194409</longitude>
+    <latitude>48.461357</latitude>
+    <code_of_coor>ABCDCBCDBBADBACCCD</code_of_coor>
+  </geolocation>
+  <geolocation id="116">
+    <longitude>24.194779</longitude>
+    <latitude>48.461271</latitude>
+    <code_of_coor>ABCDCBCDBBADBACCDC</code_of_coor>
+  </geolocation>
+  <geolocation id="117">
+    <longitude>24.195979</longitude>
+    <latitude>48.461404</latitude>
+    <code_of_coor>ABCDCBCDBBADBACCDB</code_of_coor>
+  </geolocation>
+  <geolocation id="118">
+    <longitude>24.196079</longitude>
+    <latitude>48.461547</latitude>
+    <code_of_coor>ABCDCBCDBBADBACCDA</code_of_coor>
+  </geolocation>
+  <geolocation id="119">
+    <longitude>24.197024</longitude>
+    <latitude>48.462138</latitude>
+    <code_of_coor>ABCDCBCDBBADBACCAD</code_of_coor>
+  </geolocation>
+  <geolocation id="120">
+    <longitude>24.197389</longitude>
+    <latitude>48.462586</latitude>
+    <code_of_coor>ABCDCBCDBBADBACDBC</code_of_coor>
+  </geolocation>
+  <geolocation id="121">
+    <longitude>24.197462</longitude>
+    <latitude>48.462883</latitude>
+    <code_of_coor>ABCDCBCDBBADBACDBB</code_of_coor>
+  </geolocation>
+  <geolocation id="122">
+    <longitude>24.198617</longitude>
+    <latitude>48.463551</latitude>
+    <code_of_coor>ABCDCBCDBBADBACACC</code_of_coor>
+  </geolocation>
+  <geolocation id="123">
+    <longitude>24.198812</longitude>
+    <latitude>48.463570</latitude>
+    <code_of_coor>ABCDCBCDBBADBACACD</code_of_coor>
+  </geolocation>
+  <geolocation id="124">
+    <longitude>24.200210</longitude>
+    <latitude>48.463827</latitude>
+    <code_of_coor>ABCDCBCDBBADBACADC</code_of_coor>
+  </geolocation>
+  <geolocation id="125">
+    <longitude>24.201735</longitude>
+    <latitude>48.464055</latitude>
+    <code_of_coor>ABCDCBCDBBADBACADD</code_of_coor>
+  </geolocation>
+  <geolocation id="126">
+    <longitude>24.201949</longitude>
+    <latitude>48.464198</latitude>
+    <code_of_coor>ABCDCBCDBBADBACADA</code_of_coor>
+  </geolocation>
+  <geolocation id="127">
+    <longitude>24.202321</longitude>
+    <latitude>48.464101</latitude>
+    <code_of_coor>ABCDCBCDBBADBACADD</code_of_coor>
+  </geolocation>
+  <geolocation id="128">
+    <longitude>24.202961</longitude>
+    <latitude>48.463709</latitude>
+    <code_of_coor>ABCDCBCDBBADBADBCC</code_of_coor>
+  </geolocation>
+  <geolocation id="129">
+    <longitude>24.203801</longitude>
+    <latitude>48.463415</latitude>
+    <code_of_coor>ABCDCBCDBBADBADCBB</code_of_coor>
+  </geolocation>
+  <geolocation id="130">
+    <longitude>24.204402</longitude>
+    <latitude>48.463321</latitude>
+    <code_of_coor>ABCDCBCDBBADBADCBA</code_of_coor>
+  </geolocation>
+  <geolocation id="131">
+    <longitude>24.205640</longitude>
+    <latitude>48.463172</latitude>
+    <code_of_coor>ABCDCBCDBBADBADCAB</code_of_coor>
+  </geolocation>
+  <geolocation id="132">
+    <longitude>24.207081</longitude>
+    <latitude>48.462876</latitude>
+    <code_of_coor>ABCDCBCDBBADBADCAA</code_of_coor>
+  </geolocation>
+  <geolocation id="133">
+    <longitude>24.207589</longitude>
+    <latitude>48.462750</latitude>
+    <code_of_coor>ABCDCBCDBBADBADCAD</code_of_coor>
+  </geolocation>
+  <geolocation id="134">
+    <longitude>24.208467</longitude>
+    <latitude>48.462557</latitude>
+    <code_of_coor>ABCDCBCDBBADBADDBC</code_of_coor>
+  </geolocation>
+  <geolocation id="135">
+    <longitude>24.209768</longitude>
+    <latitude>48.462211</latitude>
+    <code_of_coor>ABCDCBCDBBADBADDBD</code_of_coor>
+  </geolocation>
+  <geolocation id="136">
+    <longitude>24.210005</longitude>
+    <latitude>48.462064</latitude>
+    <code_of_coor>ABCDCBCDBBADBADDCA</code_of_coor>
+  </geolocation>
+  <geolocation id="137">
+    <longitude>24.211397</longitude>
+    <latitude>48.461734</latitude>
+    <code_of_coor>ABCDCBCDBBADBADDDB</code_of_coor>
+  </geolocation>
+  <geolocation id="138">
+    <longitude>24.212515</longitude>
+    <latitude>48.461601</latitude>
+    <code_of_coor>ABCDCBCDBBADBADDDA</code_of_coor>
+  </geolocation>
+  <geolocation id="139">
+    <longitude>24.213925</longitude>
+    <latitude>48.461640</latitude>
+    <code_of_coor>ABCDCBCDBBADABCCCB</code_of_coor>
+  </geolocation>
+  <geolocation id="140">
+    <longitude>24.215376</longitude>
+    <latitude>48.461724</latitude>
+    <code_of_coor>ABCDCBCDBBADABCCCA</code_of_coor>
+  </geolocation>
+  <geolocation id="141">
+    <longitude>24.215676</longitude>
+    <latitude>48.461296</latitude>
+    <code_of_coor>ABCDCBCDBBADABCCCD</code_of_coor>
+  </geolocation>
+  <geolocation id="142">
+    <longitude>24.216662</longitude>
+    <latitude>48.460563</latitude>
+    <code_of_coor>ABCDCBCDBBADACBBAB</code_of_coor>
+  </geolocation>
+  <geolocation id="143">
+    <longitude>24.217993</longitude>
+    <latitude>48.460045</latitude>
+    <code_of_coor>ABCDCBCDBBADACBBAA</code_of_coor>
+  </geolocation>
+  <geolocation id="144">
+    <longitude>24.218381</longitude>
+    <latitude>48.459952</latitude>
+    <code_of_coor>ABCDCBCDBBADACBBAD</code_of_coor>
+  </geolocation>
+  <geolocation id="145">
+    <longitude>24.219372</longitude>
+    <latitude>48.459812</latitude>
+    <code_of_coor>ABCDCBCDBBADACBABC</code_of_coor>
+  </geolocation>
+  <geolocation id="146">
+    <longitude>24.220644</longitude>
+    <latitude>48.459290</latitude>
+    <code_of_coor>ABCDCBCDBBADACBACB</code_of_coor>
+  </geolocation>
+  <geolocation id="147">
+    <longitude>24.220812</longitude>
+    <latitude>48.459041</latitude>
+    <code_of_coor>ABCDCBCDBBADACBACA</code_of_coor>
+  </geolocation>
+  <geolocation id="148">
+    <longitude>24.221725</longitude>
+    <latitude>48.458588</latitude>
+    <code_of_coor>ABCDCBCDBBADACBACD</code_of_coor>
+  </geolocation>
+  <geolocation id="149">
+    <longitude>24.222130</longitude>
+    <latitude>48.458204</latitude>
+    <code_of_coor>ABCDCBCDBBADACBADC</code_of_coor>
+  </geolocation>
+  <geolocation id="150">
+    <longitude>24.222380</longitude>
+    <latitude>48.457891</latitude>
+    <code_of_coor>ABCDCBCDBBADACBDAB</code_of_coor>
+  </geolocation>
+  <geolocation id="151">
+    <longitude>24.223636</longitude>
+    <latitude>48.457269</latitude>
+    <code_of_coor>ABCDCBCDBBADACBDAA</code_of_coor>
+  </geolocation>
+  <geolocation id="152">
+    <longitude>24.223816</longitude>
+    <latitude>48.457235</latitude>
+    <code_of_coor>ABCDCBCDBBADACBDAD</code_of_coor>
+  </geolocation>
+  <geolocation id="153">
+    <longitude>24.224857</longitude>
+    <latitude>48.456593</latitude>
+    <code_of_coor>ABCDCBCDBBADACACBC</code_of_coor>
+  </geolocation>
+  <geolocation id="154">
+    <longitude>24.225030</longitude>
+    <latitude>48.456530</latitude>
+    <code_of_coor>ABCDCBCDBBADACACCB</code_of_coor>
+  </geolocation>
+  <geolocation id="155">
+    <longitude>24.226235</longitude>
+    <latitude>48.455984</latitude>
+    <code_of_coor>ABCDCBCDBBADACACCA</code_of_coor>
+  </geolocation>
+  <geolocation id="156">
+    <longitude>24.226624</longitude>
+    <latitude>48.455843</latitude>
+    <code_of_coor>ABCDCBCDBBADACACCD</code_of_coor>
+  </geolocation>
+  <geolocation id="157">
+    <longitude>24.227786</longitude>
+    <latitude>48.455316</latitude>
+    <code_of_coor>ABCDCBCDBBADACACDC</code_of_coor>
+  </geolocation>
+  <geolocation id="158">
+    <longitude>24.228204</longitude>
+    <latitude>48.455182</latitude>
+    <code_of_coor>ABCDCBCDBBADACDBAB</code_of_coor>
+  </geolocation>
+  <geolocation id="159">
+    <longitude>24.229009</longitude>
+    <latitude>48.455125</latitude>
+    <code_of_coor>ABCDCBCDBBADACDBAA</code_of_coor>
+  </geolocation>
+  <geolocation id="160">
+    <longitude>24.230362</longitude>
+    <latitude>48.455143</latitude>
+    <code_of_coor>ABCDCBCDBBADACDABB</code_of_coor>
+  </geolocation>
+  <geolocation id="161">
+    <longitude>24.230684</longitude>
+    <latitude>48.455227</latitude>
+    <code_of_coor>ABCDCBCDBBADACADCC</code_of_coor>
+  </geolocation>
+  <geolocation id="162">
+    <longitude>24.231752</longitude>
+    <latitude>48.455524</latitude>
+    <code_of_coor>ABCDCBCDBBADACADCD</code_of_coor>
+  </geolocation>
+  <geolocation id="163">
+    <longitude>24.233300</longitude>
+    <latitude>48.455942</latitude>
+    <code_of_coor>ABCDCBCDBBADACADDB</code_of_coor>
+  </geolocation>
+  <geolocation id="164">
+    <longitude>24.234493</longitude>
+    <latitude>48.455922</latitude>
+    <code_of_coor>ABCDCBCDBBADACADDA</code_of_coor>
+  </geolocation>
+  <geolocation id="165">
+    <longitude>24.234692</longitude>
+    <latitude>48.455773</latitude>
+    <code_of_coor>ABCDCBCDBBADACADDD</code_of_coor>
+  </geolocation>
+  <geolocation id="166">
+    <longitude>24.235864</longitude>
+    <latitude>48.455132</latitude>
+    <code_of_coor>ABCDCBCDBBADADCBBB</code_of_coor>
+  </geolocation>
+  <geolocation id="167">
+    <longitude>24.236428</longitude>
+    <latitude>48.454499</latitude>
+    <code_of_coor>ABCDCBCDBBADADCBBC</code_of_coor>
+  </geolocation>
+  <geolocation id="168">
+    <longitude>24.237271</longitude>
+    <latitude>48.454040</latitude>
+    <code_of_coor>ABCDCBCDBBADADCBBD</code_of_coor>
+  </geolocation>
+  <geolocation id="169">
+    <longitude>24.237604</longitude>
+    <latitude>48.453806</latitude>
+    <code_of_coor>ABCDCBCDBBADADCBCA</code_of_coor>
+  </geolocation>
+  <geolocation id="170">
+    <longitude>24.237888</longitude>
+    <latitude>48.453828</latitude>
+    <code_of_coor>ABCDCBCDBBADADCBBD</code_of_coor>
+  </geolocation>
+  <geolocation id="171">
+    <longitude>24.238604</longitude>
+    <latitude>48.454197</latitude>
+    <code_of_coor>ABCDCBCDBBADADCBAC</code_of_coor>
+  </geolocation>
+  <geolocation id="172">
+    <longitude>24.239158</longitude>
+    <latitude>48.454630</latitude>
+    <code_of_coor>ABCDCBCDBBADADCBAB</code_of_coor>
+  </geolocation>
+  <geolocation id="173">
+    <longitude>24.239857</longitude>
+    <latitude>48.455274</latitude>
+    <code_of_coor>ABCDCBCDBBADADBCDC</code_of_coor>
+  </geolocation>
+  <geolocation id="174">
+    <longitude>24.240032</longitude>
+    <latitude>48.455491</latitude>
+    <code_of_coor>ABCDCBCDBBADADBCDD</code_of_coor>
+  </geolocation>
+  <geolocation id="175">
+    <longitude>24.240550</longitude>
+    <latitude>48.455977</latitude>
+    <code_of_coor>ABCDCBCDBBADADBCDA</code_of_coor>
+  </geolocation>
+  <geolocation id="176">
+    <longitude>24.241358</longitude>
+    <latitude>48.456721</latitude>
+    <code_of_coor>ABCDCBCDBBADADBDBC</code_of_coor>
+  </geolocation>
+  <geolocation id="177">
+    <longitude>24.242035</longitude>
+    <latitude>48.457382</latitude>
+    <code_of_coor>ABCDCBCDBBADADBDBB</code_of_coor>
+  </geolocation>
+  <geolocation id="178">
+    <longitude>24.242687</longitude>
+    <latitude>48.458086</latitude>
+    <code_of_coor>ABCDCBCDBBADADBACC</code_of_coor>
+  </geolocation>
+  <geolocation id="179">
+    <longitude>24.242901</longitude>
+    <latitude>48.458255</latitude>
+    <code_of_coor>ABCDCBCDBBADADBACD</code_of_coor>
+  </geolocation>
+  <geolocation id="180">
+    <longitude>24.244137</longitude>
+    <latitude>48.458720</latitude>
+    <code_of_coor>ABCDCBCDBBADADBADB</code_of_coor>
+  </geolocation>
+  <geolocation id="181">
+    <longitude>24.244996</longitude>
+    <latitude>48.459381</latitude>
+    <code_of_coor>ABCDCBCDBBADADBAAC</code_of_coor>
+  </geolocation>
+  <geolocation id="182">
+    <longitude>24.245482</longitude>
+    <latitude>48.459385</latitude>
+    <code_of_coor>ABCDCBCDBBADADBAAD</code_of_coor>
+  </geolocation>
+  <geolocation id="183">
+    <longitude>24.246552</longitude>
+    <latitude>48.460047</latitude>
+    <code_of_coor>ABCDCBCDBBADADBAAA</code_of_coor>
+  </geolocation>
+  <geolocation id="184">
+    <longitude>24.246886</longitude>
+    <latitude>48.460142</latitude>
+    <code_of_coor>ABCDCBCDBBADADABBB</code_of_coor>
+  </geolocation>
+  <geolocation id="185">
+    <longitude>24.247791</longitude>
+    <latitude>48.460807</latitude>
+    <code_of_coor>ABCDCBCDBBADAADCCC</code_of_coor>
+  </geolocation>
+  <geolocation id="186">
+    <longitude>24.248219</longitude>
+    <latitude>48.461138</latitude>
+    <code_of_coor>ABCDCBCDBBADAADCCD</code_of_coor>
+  </geolocation>
+  <geolocation id="187">
+    <longitude>24.248598</longitude>
+    <latitude>48.461402</latitude>
+    <code_of_coor>ABCDCBCDBBADAADCCA</code_of_coor>
+  </geolocation>
+  <geolocation id="188">
+    <longitude>24.249268</longitude>
+    <latitude>48.462088</latitude>
+    <code_of_coor>ABCDCBCDBBADAADCBD</code_of_coor>
+  </geolocation>
+  <geolocation id="189">
+    <longitude>24.249691</longitude>
+    <latitude>48.462737</latitude>
+    <code_of_coor>ABCDCBCDBBADAADCAC</code_of_coor>
+  </geolocation>
+</Coordinates>

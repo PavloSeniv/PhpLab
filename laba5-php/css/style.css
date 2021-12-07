@@ -32,6 +32,7 @@ aside {
 html,
 body {
     width: 100%;
+    height: 100%;
     font-size: 100%;
     line-height: 1;
     font-size: 14px;
@@ -95,63 +96,47 @@ h6 {
 }
 
 body {
-    background: #c31432; /* fallback for old browsers */
-    background: -webkit-linear-gradient(
-            to left,
-            #240b36,
-            #c31432
-    ); /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(
-            to left,
-            #240b36,
-            #c31432
-    ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    /* fallback for old browsers */
+    background: #6a11cb;
+
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+}
+
+.container-2 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 20px;
+    font-size: 20px;
 }
 
 .container {
+    width: 100%;
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.container-task {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 20px;
-}
-
-.container-task-1 {
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
-    font-size: 20px;
-}
-
-.wrapper {
-    gap: 20px;
-    display: flex;
-    width: 50%;
     flex-direction: column;
+    row-gap: 20px;
+    font-size: 20px;
+}
+
+.btn {
+    width: 150px;
+    height: 50px;
+    display: flex;
     align-items: center;
-    text-align: center;
-}
-
-.index-wrapper__link {
     font-size: 20px;
-    text-transform: uppercase;
+    justify-content: center;
 }
 
-table {
-    text-align: center;
-    border-collapse: collapse;
-}
+.container-table {
+    width: 75%;
 
-tr,
-td {
-    border: 1px solid white;
-    font-size: 20px;
 }
